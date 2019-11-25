@@ -4,9 +4,9 @@
 class Trunks < Formula
   desc "Trunks is a simple command line tool for HTTP load testing."
   homepage "https://github.com/hmarf/trunks"
-  url "https://github.com/hmarf/trunks/releases/download/v1.0/main"
-  version "1.0"
-  sha256 "2efc09e4b8a3e743db045be2ffba8268e37ef306ca3ba0ca4abd76af4d779e46"
+  url "https://github.com/hmarf/trunks/releases/download/v1.1/trunks"
+  version "1.1"
+  sha256 "d6ca785a4337fd93097e6e36d1e813a51a6791a48d23000c341e12a80f1b5166"
 
   # depends_on "cmake" => :build
 
