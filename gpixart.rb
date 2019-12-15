@@ -26,5 +26,5 @@ class Gpixart < Formula
       # executables being tested: `system "#{bin}/program", "do", "something"`.
       system "true"
     end
-  end
+end
   
