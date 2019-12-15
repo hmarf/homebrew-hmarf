@@ -2,9 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Gpixart < Formula
-    desc ""
-    homepage ""
+    desc "gpixart - Convert the image into a pixel art."
+    homepage "https://github.com/hmarf/gpixart"
     url "https://github.com/hmarf/gpixart/releases/download/0.0.1/gpixart"
+    version "0.0.1"
     sha256 "9501062871d5c73d9a2930103f874bf1634ab6d642c886458ff5a10e2aff3a6f"
   
     # depends_on "cmake" => :build
