@@ -4,8 +4,8 @@
 class Grimg < Formula
   desc ""
   homepage ""
-  url "https://github.com/hmarf/grimg/archive/v0.1.tar.gz"
-  sha256 "6693e7aeb1a0933aab049120cecfdce808f2657d679c250fde51215d9c047231"
+  url "https://github.com/hmarf/grimg/releases/download/v0.1/grimg"
+  sha256 "4b6bcc7556d5c6d52d5f0dcb42a9cdc0da79687ea849279e967d16ed97b3a590"
 
   # depends_on "cmake" => :build
 
