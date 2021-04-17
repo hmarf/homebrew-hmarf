@@ -5,7 +5,7 @@ class Ctest < Formula
     version "v1.0.1"
     desc "Give color to the output according to the test result"
     url "https://github.com/hmarf/cTest/releases/download/v1.0.1/ctest"
-    sha256 "300d982dcf785be9c44e1b342280c5d82efa8926e588a998949a26fcb10f8ed1"
+    sha256 "5478c31029a2b0fa6ed3cbfccbe0b23ae641169f258171436d578aee7fd9b6f8"
 
     def install
       bin.install "ctest"
